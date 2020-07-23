@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">User Name</string>
+    <string name="nav_header_subtitle">email_id@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="privacy_policy">
+        <a href="http://scapematrix.com/projects/miphy/privacy-policy/">Privacy Policy</a>
+    </string>
+    <string name="terms_condition">
+        <a href="http://scapematrix.com/projects/miphy/term-and-condition/">Terms And Conditions</a>
+    </string>
+</resources>
+
+
